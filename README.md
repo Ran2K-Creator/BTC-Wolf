@@ -1,5 +1,5 @@
 # BTC-Wolf
-BTC-Wolf is a modified project of Michal2SAB's Bitcoin-Stealer. BTC-Wolf has a built in large database of btc-wallets( 230847 at the moment), checked wallets counter, and an automated telegram notifications bot.
+BTC-Wolf is a crypto wallets finder and cracker for windows. It has a built in large database of btc-wallets( 230847 at the moment), checked wallets counter, and an automated telegram notifications bot.
 
 
 
@@ -12,3 +12,19 @@ BTC-Wolf is a modified project of Michal2SAB's Bitcoin-Stealer. BTC-Wolf has a b
 
 
 <b>3. automated telegram notifications</b> - automatically sends you the information about the founded wallets
+
+
+
+# installing step-by-step
+
+1. download the repository to your pc
+
+2. go to https://nodejs.org/en and download the <b>latest version</b> of Node.js
+
+3. launch CMD as administrator and enter (using cd) the BTC-Wolf folder (BTC-Wolf -> Windows)
+
+4. run npm i
+
+5. when everything is done, exit the cmd and go to the BTC_Wolf folder and click on "start-program"
+
+6. that's it!
