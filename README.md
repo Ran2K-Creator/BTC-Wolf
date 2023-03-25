@@ -45,3 +45,9 @@ start a chat with the BotFather. Send the message “/newbot” (no quotes) and 
 5. you should see something like this when everything is done:
 
 ![Untitled design](https://user-images.githubusercontent.com/65309980/227735550-d3e5b1d6-f932-45ba-9bed-4b940a94e6a8.png)
+
+
+
+# run the program on multiple machines!
+
+<b>I extremely recommend to run this program on multiple machines! That's how you will have a better results. </b>
