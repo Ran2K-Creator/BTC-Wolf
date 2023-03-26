@@ -23,7 +23,6 @@ function generate() {
 
   ck.compressed = false;
 
-  // check if generated wallet matches any from the riches.txt file
   if (filter.contains(ck.publicKey)) {
     console.log('');
     process.stdout.write('\x07');
