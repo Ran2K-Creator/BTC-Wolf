@@ -38,11 +38,15 @@ BTC-Wolf is a crypto wallets finder and cracker for windows. It has a built in l
 1. speak with “BotFather”: 
 start a chat with the BotFather. Send the message “/newbot” (no quotes) and follow the instructions.
 
-2. to install, open a terminal and run pip3 install telegram-send followed by telegram-send --configure
+2. to install, open your code editor, and run the following commands:
 
-3. paste the API token in the input section
+<b>pip3 install telegram-send</b>
+<b>pip3 install pyfiglet</b>
 
-4. write the secret code in your chat with the bot.
+
+3. after that, run <b>telegram-send --configure</b> and paste the API token from the <b>BotFather</b> in the input section
+
+4. write the secret number in your chat with the bot.
 
 5. you should see something like this when everything is done:
 
