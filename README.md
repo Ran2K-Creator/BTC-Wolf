@@ -40,8 +40,9 @@ start a chat with the BotFather. Send the message “/newbot” (no quotes) and 
 
 2. to install, open your code editor, and run the following commands:
 
-<b>pip3 install telegram-send</b>
-<b>pip3 install pyfiglet</b>
+  <b>pip3 install telegram-send</b>
+
+  <b>pip3 install pyfiglet</b>
 
 
 3. after that, run <b>telegram-send --configure</b> and paste the API token from the <b>BotFather</b> in the input section
