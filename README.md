@@ -27,7 +27,7 @@ BTC-Wolf is a crypto wallets finder and cracker for windows. It has a built in l
 
 5. run npm install bloom-filter
 
-6. when everything is done, exit the cmd and go to the BTC_Wolf folder and click on "start-program"
+6. when everything is done, exit the cmd and go to the BTC_Wolf folder and click on "start-program", start the notify.py as well.
 
 7. that's it!
 
