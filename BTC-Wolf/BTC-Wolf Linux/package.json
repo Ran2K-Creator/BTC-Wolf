@@ -1,0 +1,22 @@
+{
+  "name": "BTC-Wolf",
+  "version": "1.0.0",
+  "description": "seed farming software",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "crypto",
+    "bruteforce",
+    "btc",
+    "wallets"
+  ],
+  "author": "BTC-Wolf",
+  "license": "Apache2",
+  "dependencies": {
+    "bloom-filter": "^0.2.0",
+    "coinkey": "^3.0.0"
+  }
+}
